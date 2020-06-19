@@ -254,6 +254,13 @@ footer li {
     display: none;
 }
 
+.sub-title-description {
+    text-align: center;
+    display: block;
+    margin-bottom: -12px;
+    margin-top: -12px;
+}
+
 @media only screen and (max-width: 540px) {
     .left-section::after {
         display: none;
